@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/3052691/screenshots/6178918/coding.gif)]
+[![MasterHead](https://itsfoss.com/wp-content/uploads/2022/04/GNOME_Dark_Desktop.jpg)]
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
 <h3 align="center">A passionate Java developer coder from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3960993/workspace.gif">
