@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **It took less code to send a man to space than to run a smartphone!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 <a href="https://www.leetcode.com/user2135iv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user2135iv" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@deepak_dk0803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@deepak_dk0803" height="30" width="40" /></a>
